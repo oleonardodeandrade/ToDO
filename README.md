@@ -1,4 +1,4 @@
-## How build the project
+## How build this project
 
 Commands:
 
